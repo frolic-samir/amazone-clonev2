@@ -1,0 +1,13 @@
+.checkout-product-container img {
+  height: 100%;
+}
+
+.right {
+  border: 1px solid black;
+  position: sticky;
+  top: 65px;
+  margin-right: 10px;
+  height: 120px;
+  min-width: 250px;
+  padding: 10px 5px 0 10px;
+}

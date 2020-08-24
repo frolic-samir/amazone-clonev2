@@ -1,0 +1,31 @@
+nav {
+  background: black; /*#131921 */
+  opacity: 0.9;
+}
+
+.header-img {
+  height: 30px;
+  width: 150px;
+}
+
+.op1 {
+  font-size: 12px;
+}
+
+.op2 {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.item-count {
+  width: 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover {
+  color: aqua;
+}
